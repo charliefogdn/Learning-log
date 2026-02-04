@@ -9,3 +9,11 @@ Setting up SSH and giving the device a stable presence on my network made it eas
 
 With remote access sorted, I installed CasaOS and connected it to my home network. 
 It’s now running smoothly and gives me a simple interface for managing apps and services as I continue expanding the homelab.
+
+Next steps:
+
+A system monitor (like Glances or Netdata) to watch CPU, RAM, and network activity
+
+A simple web service or container to practise Linux permissions and networking
+
+A note‑taking or wiki tool to document commands and experiments
